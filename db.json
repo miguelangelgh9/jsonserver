@@ -25,4 +25,10 @@
       "imageURL": "Ringo.png"
     }
   ]
+  "nothing": [
+    {
+      "id": 1,
+      "name": "Nothing to see here!"
+    }
+  ]
 }
