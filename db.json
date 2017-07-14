@@ -35,6 +35,12 @@
       "name": "Nicolás",
       "statusMsg": "Compren bitcoin",
       "imageURL": "tesla.jpg"
+    },
+    {
+      "id": 7,
+      "name": "SpiderMan",
+      "statusMsg": ":D...",
+      "imageURL": "spider.jpg"
     }
   ],
   "nothing": [
