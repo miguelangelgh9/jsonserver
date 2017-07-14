@@ -23,6 +23,12 @@
       "name": "Ringo",
       "statusMsg": "Yellow submarine ...",
       "imageURL": "Ringo.png"
+    },
+    {
+      "id": 5,
+      "name": "Nelson",
+      "statusMsg": "Me la como...",
+      "imageURL": "nope.png"
     }
   ],
   "nothing": [
