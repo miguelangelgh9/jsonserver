@@ -29,6 +29,12 @@
       "name": "Nelson",
       "statusMsg": "Me la como...",
       "imageURL": "nope.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nicolás",
+      "statusMsg": "Compren bitcoin",
+      "imageURL": "tesla.jpg"
     }
   ],
   "nothing": [
